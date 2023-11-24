@@ -1,5 +1,19 @@
 <script setup lang="ts">
 
+useHead({
+  title: 'Funtime Softplay',
+  meta: [
+    {
+      name: 'description',
+      content: 'Soft play areas provide a haven of excitement and exploration for kids, offering a vibrant and cushioned wonderland for their boundless energy.'
+    },
+    {
+      name: 'keywords',
+      content: 'Softplay, Ballpits, Bouncy Castles, Softplay Hire, Softplay Rental, Softplay Parties, Softplay Events, Softplay Hire London, Softplay Hire Essex, Softplay Hire Kent, Softplay Hire Surrey, Softplay Hire Sussex, Softplay Hire Hertfordshire, Softplay Hire Bedfordshire, Softplay Hire Buckinghamshire, Softplay Hire Berkshire, Softplay Hire Oxfordshire, Softplay Hire Hampshire, Softplay Hire Cambridgeshire, Softplay Hire Suffolk, Softplay Hire Norfolk, Softplay Hire Northamptonshire, Softplay Hire Wiltshire, Softplay Hire Gloucestershire, Softplay Hire Dorset, Softplay Hire Somerset, Softplay Hire Devon, Softplay Hire Cornwall, Softplay Hire Wales, Softplay Hire Scotland, Softplay Hire Ireland, Softplay Hire UK, Softplay Hire Near Me, Softplay Hire Prices, Softplay Hire Cost, Softplay Hire Packages, S'
+    }
+  ]
+})
+
 </script>
 
 <template>
