@@ -9,7 +9,7 @@
         <img src="/img/logo/funtime-softplay-logo-trans.png" alt="" class="w-44">
       </div>
       <div class="flex flex-row items-center">
-        <nav-item title="Home" href="/" />
+        <nav-item title="Home" href="/landing" />
         <nav-item title="About" href="/about" />
         <nav-item title="Gallery" href="/gallery" />
         <nav-item title="Contact" href="/contact" />

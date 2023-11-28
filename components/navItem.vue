@@ -17,7 +17,9 @@ const props = defineProps({
   <div class="mx-4">
     <NuxtLink
         :to="href"
-        class=" font-semibold uppercase text-slate-800 rounded p-4 hover:bg-orange-600 hover:text-white">
+        class=" font-semibold uppercase text-slate-800 rounded p-4 hover:bg-orange-600 hover:text-white"
+        :class="{'bg-orange-600 text-white': $route.path === href}"
+    >
       {{ title }}
     </NuxtLink>
   </div>
