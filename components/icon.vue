@@ -21,8 +21,8 @@ const show = ref(false);
       @mouseleave="show = false"
       data-ripple-light="true"
       data-tooltip-target="label"
-      class="w-12 md:w-16 border-2 border-slate-400 hover:border-orange-600 rounded-md p-2 md:p-4 shadow m-1">
-    <img :src="src" alt="rocker" class="object-cover w-full rounded" />
+      class="w-12 m-2 md:w-16 border-2 border-slate-400 hover:border-orange-600 rounded-md p-1 md:p-4 shadow md:m-1">
+    <img :src="src" :alt="label" class="object-cover w-full rounded" />
   </div>
   <div
       v-if="show === true"

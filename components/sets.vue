@@ -5,11 +5,11 @@
 <template>
 <div>
   <div class="min-h-screen bg-white">
-    <div class="max-w-7xl mx-auto p-8">
+    <div class="max-w-7xl mx-auto md:p-8">
       <div class="flex flex-col items-center py-12 md:pt-20">
           <h1 class="text-5xl text-slate-400 md:py-2 font-semibold mb-6 text-center">Luxury White "Diamond" Package</h1>
           <img src="/img/displays/PhotoRoom_20231123_140823.jpg" class="p-2 md:p-8" alt="">
-          <div class="flex items-center flex-row flex-wrap space-x-4">
+          <div class="flex flex-wrap items-center justify-center w-full mx-auto md:space-x-3">
             <icon src="/img/icons/rocker.png" label="rocker" />
             <icon src="/img/icons/rocker.png" label="rocker" />
             <icon src="/img/icons/castle.png" label="castle" />
