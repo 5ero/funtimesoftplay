@@ -66,9 +66,7 @@
 
         </p>
         <div class="flex flex-col md:flex-row">
-          <div class="border border-slate-200 rounded m-4 bg-white">
-            <img src="/img/displays/maxi.jpg" class="p-2 md:p-4" alt="">
-          </div>
+
           <div class="flex flex-wrap items-center justify-center w-full mx-auto m-4">
             <icon src="/img/icons/blocks.png" label="blocks" />
             <icon src="/img/icons/rocker.png" label="rocker" />
@@ -84,6 +82,9 @@
             <icon src="/img/icons/maxistep.png" label="maxi step" />
             <icon src="/img/icons/bridge.png" label="bridge" />
             <icon src="/img/icons/slide.png" label="slide" />
+          </div>
+          <div class="border border-slate-200 rounded m-4 bg-white">
+            <img src="/img/displays/maxi.jpg" class="p-2 md:p-4" alt="">
           </div>
         </div>
       </div>
