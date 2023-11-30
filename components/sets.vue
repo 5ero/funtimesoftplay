@@ -7,8 +7,20 @@
   <div class="min-h-screen bg-white">
     <div class="max-w-7xl mx-auto md:p-8">
       <div class="flex flex-col items-center py-12 md:pt-20">
-          <h1 class="text-5xl text-slate-400 md:py-2 font-semibold mb-6 text-center">Luxury White "Diamond" Package</h1>
-          <img src="/img/displays/PhotoRoom_20231123_140823.jpg" class="p-2 md:p-8" alt="">
+          <h1 class="text-5xl text-slate-600 md:py-2 font-semibold mb-6 text-center">
+            Luxury White "Diamond" Package
+          </h1>
+        <p class="prose py-2 text-slate-700 text-lg">
+          The entire soft play area is surrounded by a whimsical picket fence, adding a touch of charm and safety to the playground. Parents can watch with ease as their little ones engage in imaginative play within this captivating and secure environment.
+        </p>
+        <p class="prose py-2 text-slate-700 text-lg">
+          With its blend of adventure, creativity, and safety, our soft play setup invites children to embark on a delightful journey filled with endless fun and exploration. It's a place where imagination reigns supreme and every moment is an opportunity for magical memories to be created.
+
+        </p>
+        <div class="flex flex-col md:flex-row">
+          <div class="border border-slate-200 rounded">
+            <img src="/img/displays/PhotoRoom_20231123_140823.jpg" class="p-2 md:p-4" alt="">
+          </div>
           <div class="flex flex-wrap items-center justify-center w-full mx-auto">
             <icon src="/img/icons/rocker.png" label="rocker" />
             <icon src="/img/icons/rocker.png" label="rocker" />
@@ -29,23 +41,15 @@
             <icon src="/img/icons/slide.png" label="slide" />
             <icon src="/img/icons/rideoncars.png" label="ride on car" />
             <icon src="/img/icons/rideoncars.png" label="ride on car" />
-
-          </div>
-          <ul class="hidden text-slate-700 text-lg flex flex-col md:flex-row flex-wrap ">
-            <li class="border rounded border-gray-500 p-2 m-2">4.8m x 4.8m floor space</li>
-            <li class="border rounded border-gray-500 p-2 m-2">24 piece soft play</li>
-            <li class="border rounded border-gray-500 p-2 m-2">2 singe rockers</li>
-            <li class="border rounded border-gray-500 p-2 m-2">1 ball pit</li>
-            <li class="border rounded border-gray-500 p-2 m-2">1 double rocker</li>
-            <li class="border rounded border-gray-500 p-2 m-2">1 maxi step and slide</li>
-            <li class="border rounded border-gray-500 p-2 m-2">6 animal hoppers</li>
-            <li class="border rounded border-gray-500 p-2 m-2">1 maxi step and slide  with bridge</li>
-            <li class="border rounded border-gray-500 p-2 m-2">1 large castle</li>
-            <li class="border rounded border-gray-500 p-2 m-2">2 ride on cars</li>
-            <li class="border rounded border-gray-500 p-2 m-2">floor mats</li>
-            <li class="border rounded border-gray-500 p-2 m-2">picket fence enclosure</li>
-          </ul>
+            <icon src="/img/icons/picketfence.png" label="picket fence" />
+        </div>
       </div>
+      </div>
+      <span class="text-slate-700 text-lg">Complete with a variety of soft play equipment, this package is perfect for children aged 0-5 years old. It's a great choice for birthday parties, weddings, christenings, and other special occasions.</span>
+      <p class="py-6 text-slate-700 text-2xl">
+        £495.00 <br>
+        <span class="text-sm text-gray-400">Note Delivery/Collection not included</span>
+      </p>
     </div>
   </div>
 </div>
