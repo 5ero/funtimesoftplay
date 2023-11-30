@@ -16,6 +16,9 @@
             <icon src="/img/icons/pyramid.png" label="pyramid" />
             <icon src="/img/icons/ballpit.png" label="ball pit" />
             <icon src="/img/icons/doublerocker.png" label="Double Rocker" />
+            <icon src="/img/icons/maxistep.png" label="maxi step" />
+            <icon src="/img/icons/slide.png" label="slide" />
+            <icon src="/img/icons/bridge.png" label="bridge" />
           </div>
           <ul class="hidden text-slate-700 text-lg flex flex-col md:flex-row flex-wrap">
             <li class="border rounded border-gray-500 p-2 m-2">4.8m x 4.8m floor space</li>
