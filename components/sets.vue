@@ -9,7 +9,7 @@
       <div class="flex flex-col items-center py-12 md:pt-20">
           <h1 class="text-5xl text-slate-400 md:py-2 font-semibold mb-6 text-center">Luxury White "Diamond" Package</h1>
           <img src="/img/displays/PhotoRoom_20231123_140823.jpg" class="p-2 md:p-8" alt="">
-          <div class="flex flex-wrap items-center justify-center w-full mx-auto md:space-x-3">
+          <div class="flex flex-wrap items-center justify-center w-full mx-auto">
             <icon src="/img/icons/rocker.png" label="rocker" />
             <icon src="/img/icons/rocker.png" label="rocker" />
             <icon src="/img/icons/castle.png" label="castle" />
@@ -18,9 +18,20 @@
             <icon src="/img/icons/doublerocker.png" label="Double Rocker" />
             <icon src="/img/icons/maxistep.png" label="maxi step" />
             <icon src="/img/icons/slide.png" label="slide" />
+            <icon src="/img/icons/rideonanimal.png" label="animal hopper" />
+            <icon src="/img/icons/rideonanimal.png" label="animal hopper" />
+            <icon src="/img/icons/rideonanimal.png" label="animal hopper" />
+            <icon src="/img/icons/rideonanimal.png" label="animal hopper" />
+            <icon src="/img/icons/rideonanimal.png" label="animal hopper" />
+            <icon src="/img/icons/rideonanimal.png" label="animal hopper" />
+            <icon src="/img/icons/maxistep.png" label="maxi step" />
             <icon src="/img/icons/bridge.png" label="bridge" />
+            <icon src="/img/icons/slide.png" label="slide" />
+            <icon src="/img/icons/rideoncars.png" label="ride on car" />
+            <icon src="/img/icons/rideoncars.png" label="ride on car" />
+
           </div>
-          <ul class="hidden text-slate-700 text-lg flex flex-col md:flex-row flex-wrap">
+          <ul class="hidden text-slate-700 text-lg flex flex-col md:flex-row flex-wrap ">
             <li class="border rounded border-gray-500 p-2 m-2">4.8m x 4.8m floor space</li>
             <li class="border rounded border-gray-500 p-2 m-2">24 piece soft play</li>
             <li class="border rounded border-gray-500 p-2 m-2">2 singe rockers</li>
