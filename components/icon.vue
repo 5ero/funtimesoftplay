@@ -27,7 +27,7 @@ const show = ref(false);
   <div
       v-if="show === true"
       data-tooltip="label"
-      class="uppercase absolute z-50 whitespace-normal break-words rounded-lg bg-orange-600 py-1.5 px-3 font-sans text-xs md:text-sm font-normal text-white focus:outline-none"
+      class="uppercase absolute z-50 whitespace-normal break-words rounded-lg bg-orange-600 py-1.5 px-3 font-sans text-xs md:text-xs font-normal text-white focus:outline-none"
   >
     {{ label }}
   </div>
