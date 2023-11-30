@@ -64,8 +64,7 @@
         <p class="p-8 prose py-2 text-slate-700 text-lg">
           Within this magical soft play setup, children are transported to a realm where their creativity knows no bounds. With every leap, slide, and bound, they delve into a world of make-believe, where castles come to life, ball pits are vast oceans, steps are staircases to dreams, and slides offer thrilling escapades.
         </p>
-        <p class="p-8 prose py-2 text-slate-700 text-lg">
-
+        <p class="p-8 py-2 text-slate-700 text-lg  text-left">
           Join us in this kingdom of joy, where fun knows no limits and every adventure leads to endless smiles and cherished memories!
         </p>
         <div class="flex flex-col md:flex-row">
@@ -112,7 +111,6 @@
                   With every leap, slide, and climb, children unleash their creativity and hone their motor skills, fostering a sense of joy and boundless imagination. Parents can relax knowing their little ones are immersed in a world of safe, stimulating play, fostering friendships and creating cherished memories.                </p>
         <p class="p-8 prose py-2 text-slate-700 text-lg">
           With its blend of adventure, creativity, and safety, our soft play setup invites children to embark on a delightful journey filled with endless fun and exploration. It's a place where imagination reigns supreme and every moment is an opportunity for magical memories to be created.
-
         </p>
 
         <div class="flex flex-col md:flex-row">
@@ -146,7 +144,7 @@
       </p>
     </div>
   </div>
-  <div class="min-h-screen bg-green-100">
+  <div class="min-h-screen bg-blue-100">
     <div class="max-w-7xl mx-auto md:p-8">
       <div class="flex flex-col items-center py-12 md:pt-20">
         <h1 class="text-5xl text-slate-600 md:py-2 font-semibold mb-6 text-center">
