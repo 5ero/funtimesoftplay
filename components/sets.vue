@@ -45,8 +45,8 @@
         </div>
       </div>
       </div>
-      <p class="text-slate-700 text-lg m-4">Complete with a variety of soft play equipment, this package is perfect for children aged 0-5 years old. It's a great choice for birthday parties, weddings, christenings, and other special occasions.</p>
-      <p class="py-6 text-slate-700 text-2xl m-4">
+      <p class="text-slate-700 text-lg m-6">Complete with a variety of soft play equipment, this package is perfect for children aged 0-5 years old. It's a great choice for birthday parties, weddings, christenings, and other special occasions.</p>
+      <p class="py-6 text-slate-700 text-2xl m-6">
         £495.00 <br>
         <span class="text-sm text-gray-400">Note Delivery/Collection not included</span>
       </p>
