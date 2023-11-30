@@ -58,16 +58,15 @@
         <h1 class="text-5xl text-slate-600 md:py-2 font-semibold mb-6 text-center">
           Luxury White "Maxi" Package
         </h1>
-        <p class="p-8 prose py-2 text-slate-700 text-lg">
-          The entire soft play area is surrounded by a whimsical picket fence, adding a touch of charm and safety to the playground. Parents can watch with ease as their little ones engage in imaginative play within this captivating and secure environment.
-        </p>
+<!--        <p class="p-8 prose py-2 text-slate-700 text-lg">-->
+<!--          The entire soft play area is surrounded by a whimsical picket fence, adding a touch of charm and safety to the playground. Parents can watch with ease as their little ones engage in imaginative play within this captivating and secure environment.-->
+<!--        </p>-->
         <p class="p-8 prose py-2 text-slate-700 text-lg">
           With its blend of adventure, creativity, and safety, our soft play setup invites children to embark on a delightful journey filled with endless fun and exploration. It's a place where imagination reigns supreme and every moment is an opportunity for magical memories to be created.
 
         </p>
         <div class="flex flex-col md:flex-row">
-
-          <div class="flex flex-wrap items-center justify-center w-full mx-auto m-4">
+          <div class="order-1 md:order-2 flex flex-wrap items-center justify-center w-full mx-auto m-4">
             <icon src="/img/icons/blocks.png" label="blocks" />
             <icon src="/img/icons/rocker.png" label="rocker" />
             <icon src="/img/icons/rocker.png" label="rocker" />
@@ -83,7 +82,7 @@
             <icon src="/img/icons/bridge.png" label="bridge" />
             <icon src="/img/icons/slide.png" label="slide" />
           </div>
-          <div class="border border-slate-200 rounded m-4 bg-white">
+          <div class="order-2 md:order-1 border border-slate-200 rounded m-4 bg-white">
             <img src="/img/displays/maxi.jpg" class="p-2 md:p-4" alt="">
           </div>
         </div>
