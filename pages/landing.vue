@@ -9,6 +9,7 @@ import Layout from "~/layouts/layout.vue";
       <Header />
       <Hero />
       <Sets />
+      <Footer />
     </div>
   </Layout>
 </template>
