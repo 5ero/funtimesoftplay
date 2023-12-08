@@ -1,5 +1,6 @@
 <script setup lang="ts">
 
+import Button from "~/components/form/button.vue";
 </script>
 
 <template>
@@ -15,7 +16,7 @@
           </p>
 
           <div class="order-last">
-            <button class="bg-orange-600 text-white rounded-lg p-4 mt-6 md:mt-4 hover:bg-orange-700">View Gallery</button>
+            <Button label="View Gallery" />
           </div>
 
         </div>
