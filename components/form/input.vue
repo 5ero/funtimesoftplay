@@ -13,10 +13,10 @@ const props = defineProps({
 
 <template>
 <div>
-  <div class="w-full flex flex-row space-y-4 justify-center items-center">
+  <div class="mt-4 w-full flex flex-col md:flex-row md:space-y-4 md:justify-center md:items-center">
     <label
         for="{{ label }}"
-        class="w-2/12 block uppercase tracking-wide text-gray-500 text-lg font-semibold mb-2"
+        class="md:w-2/12 block uppercase tracking-wide text-gray-500 text-lg font-semibold md:mb-2"
     >
       {{ label }}
     </label>

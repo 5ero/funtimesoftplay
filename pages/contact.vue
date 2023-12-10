@@ -13,7 +13,7 @@ import Button from "~/components/form/button.vue";
       <HeroContact />
       <div class="max-w-7xl mx-auto">
         <div class="flex flex-col md:flex-row mt-12">
-          <div class="w-2/3">
+          <div class="w-full md:w-2/3">
             <h1 class="text-slate-600 text-4xl m-8">
               Contact us
             </h1>

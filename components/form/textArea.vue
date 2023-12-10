@@ -9,7 +9,7 @@ const props = defineProps({
 
 <template>
 <div>
-  <div class="flex flex-row space-y-4 justify-center">
+  <div class="flex flex-col md:flex-row md:space-y-4 justify-center">
     <label
         for="{{ label }}"
         class="w-2/12 mt-4 block uppercase tracking-wide text-gray-500 text-lg font-semibold mb-2"
