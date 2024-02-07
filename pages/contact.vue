@@ -31,13 +31,19 @@ import Button from "~/components/form/button.vue";
             <h1 class="text-slate-600 text-4xl m-8">Contact information</h1>
             <ul class="m-8 text-slate-600 text-lg space-y-4">
               <li>
-                Phone: 07712345678
+                Phone: <a href="tel:+447942386386">07942 386386</a>
               </li>
               <li>
                 email: hello@funtimesoftplay.co.uk
               </li>
               <li>
                 Social media:
+                <p>
+                  <a href="https://www.instagram.com/love_balloons_bedfordshire_/?hl=en">
+                    <img src="/img/social/Instagram_Glyph_Black.png" class="w-8 h-8 inline-block mt-4">
+                  </a>
+                </p>
+
               </li>
             </ul>
           </div>

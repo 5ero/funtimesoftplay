@@ -12,9 +12,20 @@
         </div>
         <div>
           <h2 class="text-slate-100 text-lg font-semibold">Contact information</h2>
+          <ul class="text-slate-300 space-y-1 text-sm mt-2">
+            <li>
+               07942 386386
+            </li>
+            <li>
+               hello@funtimesoftplay.co.uk
+            </li>
+          </ul>
         </div>
         <div>
           <h2  class="text-slate-100 text-lg font-semibold">Social Media</h2>
+          <a href="https://www.instagram.com/love_balloons_bedfordshire_/?hl=en" target="_blank">
+            <img src="/img/social/Instagram_Glyph_White.png" class="w-8 h-8 inline-block mt-4">
+          </a>
         </div>
       </div>
     </div>

@@ -10,9 +10,9 @@ const showMobileNav = ref(false);
         <img src="/img/logo/funtime-softplay-logo-trans.png" alt="" class="w-32 md:w-44">
       </div>
       <div class="hidden md:flex flex-row items-center justify-end w-full">
-        <nav-item title="Home" href="/landing" />
+        <nav-item title="Home" href="/" />
         <nav-item title="About" href="/about" />
-        <nav-item title="Gallery" href="/gallery" />
+<!--        <nav-item title="Gallery" href="/gallery" />-->
         <nav-item title="Contact" href="/contact" />
       </div>
       <div>
